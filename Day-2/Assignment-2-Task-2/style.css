@@ -1,0 +1,25 @@
+.container{
+    width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+}
+
+.img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.container-2{
+    position: absolute;
+    top: 30%;
+    color: white;
+}
+
+.btn{
+    padding:12px;
+    border-radius: 15px;
+    border: 0;
+    width: 120px;
+    font-weight: 600;
+}
